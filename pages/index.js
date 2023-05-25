@@ -105,18 +105,18 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>ENS Dapp</title>
+        <title>CHAD UPPERCUT</title>
         <meta name="description" content="ENS-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
         <div>
           <h1 className={styles.title}>
-            Welcome to Ninit Punks {ens ? ens : address}!
+            ARE YOU READY TO GET UPPERCUT BY CHAD? {ens ? ens : address}!
           </h1>
           <div className={styles.description}>
             {/* Using HTML Entities for the apostrophe */}
-            It&#39;s an NFT collection for OG Ninit Punks.
+            It&#39;s NOT a project, or a movement, or a vibe. ITS A FREQUENCY. 
           </div>
           {renderButton()}
         </div>
