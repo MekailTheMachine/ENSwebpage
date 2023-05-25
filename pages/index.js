@@ -126,7 +126,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; 
+        Made by Chads &#10084; 
       </footer>
     </div>
   );
