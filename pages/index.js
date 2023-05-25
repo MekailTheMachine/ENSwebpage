@@ -121,7 +121,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./learnweb3punks.png" />
+          <img className={styles.image} src="./chad.jpeg" />
         </div>
       </div>
 
