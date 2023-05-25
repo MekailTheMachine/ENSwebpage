@@ -116,7 +116,7 @@ export default function Home() {
           </h1>
           <div className={styles.description}>
             {/* Using HTML Entities for the apostrophe */}
-            It&#39;s NOT a project, or a movement, or a vibe. ITS A FREQUENCY. 
+            It&#39;s more than a project, or a movement, or a vibe. more than a frequency. 
           </div>
           {renderButton()}
         </div>
